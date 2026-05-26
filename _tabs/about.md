@@ -7,6 +7,6 @@ order: 4
 
 I am Chuanhao Wang, an undergraduate student at the University of Chinese Academy of Sciences.
 
-Email: your_email@example.com
+Email: wangchuanhao23@mails.ucas.ac.cn
 
 My research interests include hardware design automation, RTL generation, Verilog, LLM agents, and electronic design automation.
